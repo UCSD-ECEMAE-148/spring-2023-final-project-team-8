@@ -3,18 +3,15 @@
 ## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
 Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp Kaushik (MAE)
 
-## 🤓 Project Overview and learning outcomes 
+## 🤓 Project Overview
 We are building a laser-guided GPS mapper robot that functions as a cat.
 
 ## :octocat: Key Features
 Our robot has two main features: 1. Interactive control with laser; 2. Collecting the route data.
-That means we can guide the robot with a laser pointer, just like how we play with cats. Meanwhile, the robot will 
-Theses two features are achieved b
-GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
+That means we can guide the robot with a laser pointer, just like how we play with cats. The robot automatically collects location data while operating, and will save the location data for mapping around the area. 
+To achieve these two features, we focused our work on our VESC module, GNSS module, and OAKD Lite Camera module.
 
-GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
-
-## :octocat: Understanding the GitHub flow 
+### :octocat: Understanding the GitHub flow 
 
 The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
