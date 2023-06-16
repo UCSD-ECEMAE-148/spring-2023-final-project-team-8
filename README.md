@@ -6,7 +6,10 @@ CAT PIC HERE
 TEAM PIC HERE
 ![alt text](http://url/to/img.png)
 ## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
-Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp Kaushik (MAE)
+- Mekhi Ellington (ECE)
+- Mikhail Rossoshanskiy (ECE)
+- Dehao Lin (MAE)
+- Sankalp Kaushik (MAE)
 
 ## Project Overview
 We are building a laser-guided GPS mapper robot that functions as a cat.
