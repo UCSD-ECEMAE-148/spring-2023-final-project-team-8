@@ -1,5 +1,10 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M2_fO6fJ)
 # :cat: The Pet Cat Bot
+CAT PIC HERE
+![alt text](http://url/to/img.png)
+
+TEAM PIC HERE
+![alt text](http://url/to/img.png)
 ## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
 Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp Kaushik (MAE)
 
