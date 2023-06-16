@@ -1,16 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M2_fO6fJ)
 # :wave: The Pet Cat Bot
-## Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp Kaushik (MAE)
 ## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
+Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp Kaushik (MAE)
 
 ## 🤓 Project Overview and learning outcomes 
-
 We are building a laser-guided GPS mapper robot that functions as a cat.
 
 ## :octocat: Key Features
-
-Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
-
+Our robot has two main features: 1. Interactive control with laser; 2. Collecting the route data.
+That means we can guide the robot with a laser pointer, just like how we play with cats. Meanwhile, the robot will 
+Theses two features are achieved b
 GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
 GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
