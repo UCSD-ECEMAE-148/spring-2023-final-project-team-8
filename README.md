@@ -7,10 +7,15 @@ Mekhi Ellington (ECE) | Mikhail Rossoshanskiy (ECE) | Dehao Lin (MAE) | Sankalp 
 We are building a laser-guided GPS mapper robot that functions as a cat.
 
 ## :octocat: Key Features
-Our robot has two main features: 1. Interactive control with laser; 2. Collecting the route data.
+Our robot has two main features:
+    1. Interactive control with laser;
+    2. Collecting the route data.
 
 That means we can guide the robot with a laser pointer, just like how we play with cats. The robot automatically collects location data while operating, and will save the location data for mapping around the area. 
 
+PICTURE/VIDEO HERE 
+
+## What we did?
 To achieve these two features, we focused our work on our VESC module, GNSS module, and OAKD Lite Camera module.
 
 ### : VESC module - PyVESC
