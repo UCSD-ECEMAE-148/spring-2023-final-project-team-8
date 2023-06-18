@@ -16,11 +16,11 @@ Winter 2023
 </p>
 </div>
 
-
+- Mekhi Ellington (ECE)
 - Mikhail Rossoshanskiy (ECE)
 - Dehao Lin (MAE)
 - Sankalp Kaushik (MAE)
-- ![alt text](teampic148.jpg)
+![alt text](teampic148.jpg)
 
 
 ## Project Overview
