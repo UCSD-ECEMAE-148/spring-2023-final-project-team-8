@@ -1,7 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M2_fO6fJ)
 # :cat: The Pet Cat Bot
-![alt text](carpic148.jpg)
-<img src="carpic148.jpg" height="60" width="60" >
+<img src="carpic148.jpg" height="100" width="100" >
 
 TEAM PIC HERE
 ![alt text](teampic148.jpg)
