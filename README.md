@@ -20,6 +20,7 @@ Winter 2023
 - Mikhail Rossoshanskiy (ECE)
 - Dehao Lin (MAE)
 - Sankalp Kaushik (MAE)
+
 ![alt text](teampic148.jpg)
 
 
@@ -54,7 +55,11 @@ color detection and computer vision
 * Mekhi Ellington - mellingt@ucsd.edu
 * Mikhail Rossoshanskiy - mrossosh@ucsd.edu
 * Dehao Lin - delin@ucsd.edu
-* Sankalp Kaushik - sskaushi@ucsd.edu 
+* Sankalp Kaushik - sskaushi@ucsd.edu
+
+## Final Project Documentation
+
+* [Final Project Presentation](https://docs.google.com/presentation/d/1CmsSRDc4tJDKef6RWzisFBF3TMSWqy2-ThQkxXycnEY/edit?usp=sharing)
 
 
 
