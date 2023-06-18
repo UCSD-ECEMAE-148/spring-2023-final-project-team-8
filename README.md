@@ -3,15 +3,13 @@
 <h1 align="center">:cat: The Pet Cat Bot </h1>
 
 <div align="center">
-    <img src="carpic148.jpg" alt="Logo" width="500" height=400">
+    <img src="carpic148.jpg" alt="Logo" width="500" height=500">
 </div>
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection">
-    <img src="images\UCSDLogo_JSOE_BlueGold.png" alt="Logo" width="200" height="50">
-  </a>
+    <img src="ucsdLogo.png" alt="Logo" width="200" height="50">
 <h3>Team 8 | UCSD ECE / MAE 148: Autonomous Vehicle | Final Project</h3>
 <p>
 Winter 2023
