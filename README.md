@@ -2,7 +2,9 @@
 
 <h1 align="center">:cat: The Pet Cat Bot </h1>
 
-![alt text](carpic148.jpg)
+<div align="center">
+    <img src="carpic148.jpg" alt="Logo" width="500" height=400">
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
