@@ -1,14 +1,15 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/M2_fO6fJ)
-# :cat: The Pet Cat Bot
-<img src="carpic148.jpg" height="100" width="100" >
+<div id="top"></div>
 
-TEAM PIC HERE
-![alt text](teampic148.jpg)
+<h1 align="center">:cat: The Pet Cat Bot </h1>
+![alt text](carpic148.jpg)
+
 ## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
 - Mekhi Ellington (ECE)
 - Mikhail Rossoshanskiy (ECE)
 - Dehao Lin (MAE)
 - Sankalp Kaushik (MAE)
+- ![alt text](teampic148.jpg)
+
 
 ## Project Overview
 We are building a laser-guided GPS mapper robot that functions as a cat.
@@ -24,7 +25,7 @@ That means we can guide the robot with a laser pointer, just like how we play wi
 
 PICTURE/VIDEO HERE 
 
-## What we did?
+## What have we done?
 To achieve these two features, we focused our work on our VESC module, GNSS module, and OAKD Lite Camera module.
 
 ### VESC module - PyVESC
@@ -35,6 +36,13 @@ location errors and data parsing
 
 ### OAKD Lite Camera module - 
 color detection and computer vision
+
+## Contact
+
+* Mekhi Ellington - mellingt@ucsd.edu
+* Mikhail Rossoshanskiy - mrossosh@ucsd.edu
+* Dehao Lin - delin@ucsd.edu
+* Sankalp Kaushik - sskaushi@ucsd.edu 
 
 
 
