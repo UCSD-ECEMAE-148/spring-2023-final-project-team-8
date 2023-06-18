@@ -1,10 +1,22 @@
 <div id="top"></div>
 
 <h1 align="center">:cat: The Pet Cat Bot </h1>
+
 ![alt text](carpic148.jpg)
 
-## Team 8 | UCSD ECE/MAE 148: Autonomous Vehicle
-- Mekhi Ellington (ECE)
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/ECE148-WI-23-Team-1/CV-Sign-and-Person-Detection">
+    <img src="images\UCSDLogo_JSOE_BlueGold.png" alt="Logo" width="200" height="50">
+  </a>
+<h3>Team 8 | UCSD ECE / MAE 148: Autonomous Vehicle | Final Project</h3>
+<p>
+Winter 2023
+</p>
+</div>
+
+
 - Mikhail Rossoshanskiy (ECE)
 - Dehao Lin (MAE)
 - Sankalp Kaushik (MAE)
