@@ -65,7 +65,7 @@ We utilized openCV libraries and depthAI repo integration to provide us with the
 
 <div align="center">
     <img src="electronicPlate.png" alt="Logo" width="772" height=434">
-    <p align = "center">Electronic Mounting plate design)</p>
+    <p align = "center">Electronic Mounting plate design</p>
     <img src="suspensionStandoff.png" alt="Logo" width="716" height=716">
     <p align = "center">Suspension K constant adjustment standoffs</p>
     <img src="cattailMount.png" alt="Logo" width="716" height=716">
