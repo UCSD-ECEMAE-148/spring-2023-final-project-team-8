@@ -36,8 +36,12 @@ Our robot has two main features:
 
 That means we can guide the robot with a laser pointer, just like how we play with cats. The robot automatically collects location data while operating, and will save the location data for mapping around the area. 
 
-![](car_demo_.gif)
+## Tracking Algorithm Demo Video
 ![](track_demo.gif)
+
+## Car Demo Video
+![](car_demo_.gif)
+
 
 ## What have we done?
 To achieve these two features, we focused our work on our VESC module, GNSS module, and OAKD Lite Camera module.
