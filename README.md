@@ -50,8 +50,10 @@ We ended up just switching to completely Analog steering. Instead, we just set t
 ### GNSS module - 
 location errors and data parsing 
 
-### OAKD Lite Camera module - 
+### OAKD Lite Camera module - openCV/depthAI
+
 color detection and computer vision
+We utilized openCV libraries and depthAI repo integration to provide us with the frames and image processing capabilities. We created out own laser tracking algorithm that accurately tracks a laser pointer in the camera's frame. This was done with masking and image threshold techniques. By applying two color thresholds, white and red/black" we are able to isolate the brightest spot in the frame. This action is done by the cv2.Range() function that compares our camera frame to the thresholds. This in turn creates a black-and-white mask that shows only the laser pointer in the original frame. We next extract the location of the brightest spot on the image using cv2.MinMaxLoc(). These coordinates are then ready to be used by the steering and throttle algorithms as we are able to isolate the X and Y values (pixels) of the pointer's location "maxLoc[0] and maxLoc[1]". 
 
 ## Contact
 
