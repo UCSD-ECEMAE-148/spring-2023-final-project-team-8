@@ -48,7 +48,9 @@ For the servo controls we started off using boundary boxes going from the left a
 We ended up just switching to completely Analog steering. Instead, we just set the current pixel a laser is seen on and put it over 720 (720x720 pixel capture window) This results in us getting literally 720 points that we can accurately turn to after implementation. 
 
 ### GNSS module - 
-location errors and data parsing 
+When implementing the GNSS module we had a lot of issues but eventually got it functioning. At first we attempted to use Donkeycar and quickly found out that it would not work with our PyVESC script. We ended up finding a few other python libraries and found that serial library in python works without any issues. 
+Implementing the Serial library allowed us to point the library to the port where the GNSS is connected and then gather the information. We then wrote a portion within our script that woulld gather the GPS information and then write it to a file within the Jetson. We found out that there was a lot of garbage information being captued by the GNSS that we really do not need, things like Location of the Satellites and speed and everything. We only needed Longtitude and Latitutde so we ended up having to write a seperate script that pulls each line from the file with GNSS information and then parses it to extract only the Longtiude and Latitude split apart by a comma in between. We then had this be written to a file and it ended being perfect.
+We then could find an online mapper and send our file into it to plot our data points collected. An issue we found out is that our points were coming up in the middle of the Ocean off the coast of Mexico. However, they were all still relative to one another so it didn't change the overall path the cat took while chasing the laser. If we had more time we would fix this and overlap the data points over UCSD campus or whichever location this device is ran at. 
 
 ### OAKD Lite Camera module - openCV/depthAI
 
