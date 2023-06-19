@@ -30,9 +30,9 @@ We are building a laser-guided GPS mapper robot that functions as a cat.
 ## :octocat: Key Features
 Our robot has two main features:
 
-    1. Interactive control with laser;
+    1. Interactive control with laser
 
-    2. Collecting the route data.
+    2. Collecting the route data
 
 That means we can guide the robot with a laser pointer, just like how we play with cats. The robot automatically collects location data while operating, and will save the location data for mapping around the area. 
 
@@ -64,13 +64,13 @@ We utilized openCV libraries and depthAI repo integration to provide us with the
 ### Mechanical & Asthetic Designs
 
 <div align="center">
-    <img src="images\Team.jpg" alt="Logo" width="160" height=90">
+    <img src="electronicPlate.png" alt="Logo" width="772" height=434">
     <p align = "center">Electronic Mounting plate design)</p>
-    <img src="images\Team.jpg" alt="Logo" width="400" height=400">
+    <img src="suspensionStandoff.png" alt="Logo" width="716" height=716">
     <p align = "center">Suspension K constant adjustment standoffs</p>
-    <img src="images\Team.jpg" alt="Logo" width="400" height=400">
+    <img src="cattailMount.png" alt="Logo" width="716" height=716">
     <p align = "center">Cat tail mounting</p>
-    <img src="images\Team.jpg" alt="Logo" width="160" height=90">
+    <img src="catTail.png" alt="Logo" width="772" height=434">
     <p align = "center">Cat tail</p>
 </div>
 
