@@ -38,6 +38,8 @@ That means we can guide the robot with a laser pointer, just like how we play wi
 
 PICTURE/VIDEO HERE 
 
+![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-8/car_demo_.gif)
+![](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-8/track_demo.gif)
 ## What have we done?
 To achieve these two features, we focused our work on our VESC module, GNSS module, and OAKD Lite Camera module.
 
