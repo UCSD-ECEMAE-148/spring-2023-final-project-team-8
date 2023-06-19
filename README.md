@@ -36,7 +36,6 @@ Our robot has two main features:
 
 That means we can guide the robot with a laser pointer, just like how we play with cats. The robot automatically collects location data while operating, and will save the location data for mapping around the area. 
 
-PICTURE/VIDEO HERE 
 ![](car_demo_.gif)
 ![](track_demo.gif)
 
